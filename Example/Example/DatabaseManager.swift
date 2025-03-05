@@ -1,4 +1,10 @@
-import Dispatch
+//
+//  ExampleApp.swift
+//  Example
+//
+//  Created by Emil Marashliev on 6.03.25.
+//
+
 import Foundation
 import SQLite3
 

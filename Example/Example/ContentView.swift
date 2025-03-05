@@ -1,12 +1,11 @@
 //
-//  ContentView.swift
-//  Turso_ios
+//  ExampleApp.swift
+//  Example
 //
-//  Created by Alessandro Cauduro on 27/06/24.
+//  Created by Emil Marashliev on 6.03.25.
 //
 
 import SwiftUI
-import SQLite3
 
 class ContentViewModel: ObservableObject {
     @Published var results: [DatabaseRow] = []
