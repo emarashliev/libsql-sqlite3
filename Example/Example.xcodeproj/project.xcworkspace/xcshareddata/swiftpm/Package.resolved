@@ -1,0 +1,15 @@
+{
+  "originHash" : "175c0bcbe2b7a58a6655ad9d66142b2af6dc1c6b04a47e92f6e6d35b6f5d0326",
+  "pins" : [
+    {
+      "identity" : "libsql-sqlite3",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/emarashliev/libsql-sqlite3.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b1f9db07063e5f3900107b5e2a544400ec04ca2b"
+      }
+    }
+  ],
+  "version" : 3
+}
