@@ -33,7 +33,7 @@ import PackageDescription
 let package = Package(
     name: "YourProject",
     dependencies: [
-        .package(url: "https://github.com/emarashliev/libsql-sqlite3.git", from: "1.0.0")
+        .package(url: "https://github.com/emarashliev/libsql-sqlite3.git", branch: "main")
     ],
     targets: [
         .target(
