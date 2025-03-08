@@ -13,7 +13,8 @@
 - **iOS:** 11.0 or later (adjustable in Package.swift)
 - **Swift:** 5.3 or later
 - **Xcode:** 12 or later
-## ⚠️ Does not support iOS x86_64 simulator
+  
+**⚠️ Does not support iOS x86_64 simulator**
 ## Installation
 ### Using Xcode (Swift Package Manager)
 
