@@ -1,6 +1,7 @@
 # libsql-sqlite3
 
 [![Swift Version](https://img.shields.io/badge/Swift-5.3+-orange.svg)](https://swift.org)
+[![iOS](https://img.shields.io/badge/iOS-11.0+-lightgrey.svg)](https://developer.apple.com/ios/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **libsql-sqlite3** is a Swift package that provides a native wrapper around the [libSQL](https://github.com/tursodatabase/libsql) fork of SQLite. This package delivers the power of libSQL – a community-driven, open-contribution fork of SQLite – as a pre-built binary (xcframework).
@@ -44,6 +45,20 @@ let package = Package(
 )
 
 ```
+
+## Example Project
+
+The repository includes an Example project that demonstrates how to use libsql-sqlite3 in a real iOS application. This sample project shows best practices for integrating and using SQLite with vector extensions in your Swift projects.
+
+To run the example:
+
+1. Clone the repository
+2. Open the `Example/Example.xcodeproj` file in Xcode
+3. Build and run the project
+
+The example demonstrates using vector extensions for similarity search
+
+Use this example as a reference when implementing libsql-sqlite3 in your own projects.
 
 # SQLite3 iOS Build Script Documentation
 
